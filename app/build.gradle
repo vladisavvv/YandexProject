@@ -13,7 +13,7 @@ android {
         config {
             keyAlias 'key'
             keyPassword '123123'
-            storeFile rootProject.file("./keystores/key2.jks")
+            storeFile file("../keystores/key2.jks")
             storePassword '123123'
         }
     }
