@@ -38,4 +38,4 @@ build/**
 externalNativeBuild
 
 key.jks
-app/keystore.properties
+# app/keystore.properties
