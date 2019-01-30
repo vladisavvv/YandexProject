@@ -3,9 +3,6 @@
 *.aab
 *.ap_
 
-# keystores
-# keystores/**
-
 # files for the dex VM
 *.dex
 
@@ -39,3 +36,6 @@ gradle-app.setting
 .gradle/**
 build/**
 externalNativeBuild
+
+key.jks
+# app/keystore.properties
